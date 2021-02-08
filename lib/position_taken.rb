@@ -13,7 +13,7 @@ def position_taken?(board, index)
 
 
 
-
+#OR!!!!!
 
 
   if board[index] == " "
